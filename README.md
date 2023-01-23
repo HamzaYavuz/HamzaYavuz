@@ -1,4 +1,4 @@
-<img src="[https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif](https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif)" align="right" width="350" height="200">    
+<img src="https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif" align="right" width="350" height="200">    
 
 ### Hi there, I'm Hamza YAVUZ.  :blush: 
 
