@@ -4,7 +4,7 @@
 
 ## Junior Front-End Developer 
 <br>
-## Rach Me
+## Reach Me
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 aria-label="Instagram" role="img"
 viewBox="0 0 512 512"><rect
