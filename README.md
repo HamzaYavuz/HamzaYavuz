@@ -27,7 +27,7 @@ fill="none" stroke="#fff" stroke-width="30"><rect width="308" height="308" x="10
 
 ### Welcome to my Github profile. I am trying to improve myself as a Junior Front-End Developer. I'm trying to develop myself on the Vue.js framework.
 
-### I graduated from Yıldırım Beyazıt University Management Information Systems department in 2022. I am currently working as a Junior Front-End Developer at C3 Technology.
+### I graduated from Yıldırım Beyazıt University Management Information Systems department in 2022. I did an internship at Verisay as a Junior Front-End Developer. I worked as a Junior Front-End Developer at C3 Technology.
 <hr>
 
 <details>
